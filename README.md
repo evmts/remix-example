@@ -33,6 +33,10 @@ bun install
 bun run dev
 ```
 
+3. Navigate to localhost:5173
+
+![image](https://github.com/evmts/remix-example/assets/35039927/aabff476-4fd9-48b2-9191-7d4d88876f04)
+
 ## EVMts bundler configuration
 
 EVMts works via a [vite plugin](https://vitejs.dev/). This includes:
